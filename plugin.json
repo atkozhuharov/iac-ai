@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "iac-ai",
+  "version": "1.0.0",
+  "description": "Skills for Terraform, OpenTofu and Terragrunt work: style, module scaffolding, remote runs and security review.",
+  "repository": "https://github.com/atkozhuharov/iac-ai",
+  "license": "MIT",
+  "keywords": ["terraform", "opentofu", "terragrunt", "iac", "security"]
+}
